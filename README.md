@@ -20,6 +20,6 @@ akes di http://localhost:8080
 
 aplikasi dapat menerima document dengan upload document bertipe docx dan pdf, atau langsung input text di bagian input text 
 
-*** masih banyak kekurangan
-*** note: algoritma bawaan PHP lebih akurat daripada algoritma di source code ini
-*** terima kasih
+###masih banyak kekurangan
+###note: algoritma bawaan PHP lebih akurat daripada algoritma di source code ini
+###terima kasih
